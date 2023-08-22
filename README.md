@@ -7,3 +7,6 @@ The project showcases the amount of people who are fully, partially and not vacc
 The dashboards enable users to explore the data in an intuitive and visually appealing way, making it easier to understand the complex and rapidly evolving situation. 
 Through this project, I have demonstrated my ability to analyze and present complex data in a meaningful and impactful way, highlighting the importance of data-driven 
 decision making in today's world.
+
+## LICENSE
+[MIT](LICENSE)
