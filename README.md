@@ -1,12 +1,8 @@
-As a data analyst with Tableau expertise, I have created a comprehensive project on the global spread 
-of COVID-19. Utilizing various sources of data, I have created interactive dashboards and visualizations 
-to track the progression of the pandemic. 
+I am a Tableau loving data analyst who has built an end-to-end project on global COVID-19 spread. Leveraging multiple data sources, I built interactive dashboards and visualizations to monitor the growth of this pandemic.
 
-The project showcases the amount of people who are fully, partially and not vaccinated .
+The Project reflects the number of people fully, partially and unvaccinated.
 
-The dashboards enable users to explore the data in an intuitive and visually appealing way, making it easier to understand the complex and rapidly evolving situation. 
-Through this project, I have demonstrated my ability to analyze and present complex data in a meaningful and impactful way, highlighting the importance of data-driven 
-decision making in today's world.
+The dashboards allow users to interact with the data in an intuitive and visually appealing manner which makes understanding a little bit more bearable for such as complex environment that is changing rapidly. This project was an opportunity for me to extract and display insightful information from complex data, emphasizing the value of using such insights in decision making.
 
 ## LICENSE
 [MIT](LICENSE)
